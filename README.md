@@ -1,7 +1,9 @@
 # Prediction-Algorithms
+
 This repository contains several prediction models.
 
-# Machine Learning Model Development Using Python Frameworks
+## Machine Learning Model Development Using Python Frameworks
+
 This repository contains scripts for training and evaluating various machine learning models using Machine Learning libraries in Python.
 
 The model development process is tracked using MLflow, allowing for transformer and estimator parameters to be logged, tracked and eventually registered through the model development process.  
